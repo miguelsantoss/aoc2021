@@ -3,7 +3,6 @@
 
 import Data.List
 import qualified Data.Text as T
-import Debug.Trace
 
 type Input = ([T.Text], [T.Text])
 
